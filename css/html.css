@@ -1,0 +1,34 @@
+.all{
+    
+}
+
+img{
+    width: 30%;
+}
+
+h1{
+    font-family: 'Courier New', Courier, monospace;
+    font: color black: bold;
+}
+
+body{
+    font-size: medium;
+    font-family: 'Times New Roman', Times, serif;
+    font: color:blue;
+    background-color: orange;
+    
+}
+
+.header{
+    font-size: larger;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font: color grey; 
+}
+
+.tableau{
+    width: 50%;
+}
+
+.link{
+    font-size: larger;
+}
