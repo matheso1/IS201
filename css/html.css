@@ -23,7 +23,7 @@ body{
     font-size: larger;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     font: color grey; 
-    position: inherit;
+    position: 
 }
 
 .tableau{
@@ -32,4 +32,9 @@ body{
 
 .link{
     font-size: larger;
+}
+
+.center {
+    margin: auto;
+    width: 50%;
 }
